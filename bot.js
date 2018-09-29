@@ -6,8 +6,8 @@ client.on('ready', () => {
 });
 
 client.on('message', message => {
-    if (message.content === 'v/help') {
-    	message.reply('Commands sent via Dms.');
+    if (message.content === 'yeet') {
+    	message.reply('yote');
   	}
 });
 
